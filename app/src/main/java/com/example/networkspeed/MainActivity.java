@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 e4.getText().clear();
 
                 rotation(actualAng,0);
+                actualAng = 0;
             }
         });
 
